@@ -1,0 +1,10 @@
+{
+  "posts": [
+    { "body": "Hello", "author": "Ali", "id": "0.9206211595236566" },
+    {
+      "body": "Hello, this is my first note!",
+      "author": "Ali Ghazanfar",
+      "id": "0.1430062723591068"
+    }
+  ]
+}
